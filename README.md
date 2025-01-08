@@ -8,4 +8,6 @@ Adligo.org helps sophisticated technical gurus by providing an open-source commu
 #### Evangelists & Ambassadors 
 
 If you are interested in becoming a community ambassador or evangelist please reach out to one of the current people below;
+
+###### Current Evangelists
 [Scott](https://www.linkedin.com/in/scott-morgan-21739415/) 
